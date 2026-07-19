@@ -1,0 +1,19 @@
+AuthorName: Xavier Lerouvreur
+Categories:
+  - Food
+License: Proprietary
+CurrentVersionCode: 0
+IssueTracker: ''
+Name: SafeFridge
+SourceCode: https://github.com/xavierlpro-coder/SafeFridge
+Summary: Gestion d'inventaire alimentaire multi-foyer avec alertes de péremption
+Description: |-
+  SafeFridge aide un foyer à suivre son inventaire alimentaire (frigo,
+  congélateur, garde-manger) : scan de code-barres avec résolution Open Food
+  Facts, estimation de date de péremption par des règles de conservation
+  internes, alertes DLC/DDM par notification locale, et retrait tracé
+  (consommé/jeté avec motif) par membre du foyer.
+
+  Nécessite Google Play Services (authentification et synchronisation via
+  Firebase) — ne fonctionnera pas sur un appareil entièrement dégooglisé.
+WebSite: ''
